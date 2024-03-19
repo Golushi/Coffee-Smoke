@@ -1,10 +1,20 @@
 # Three.js Journey
 
+Le site est disponible en ligne ici : [Coffee Smoke]().
+
+Technologies utilisées
+
+    Node.js
+    Vitejs
+    Three.js
+    JavaScript
+
 ## Setup
+
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 
-``` bash
+```bash
 # Install dependencies (only the first time)
 npm install
 
